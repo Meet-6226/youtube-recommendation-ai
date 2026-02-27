@@ -1,10 +1,5 @@
 # 🎬 YouTube Engagement Revenue Optimizer
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange.svg)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green.svg)
-
 ## 📌 Overview
 The **YouTube Engagement AI Lab** is a full-stack data science and machine learning project designed to maximize YouTube's Average Revenue Per User (ARPU). By analyzing real-world interactions between users and recommended videos, this project predicts engagement probabilities and simulates strategic revenue lifts.
 
